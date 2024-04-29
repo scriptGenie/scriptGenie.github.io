@@ -1,5 +1,5 @@
 steps:
-- uses: actions/checkout@master
+- uses: actions/checkout@main
   with:
     name: scriptGenie/Naked_And_Afraid_Map     <-- clone https://github.com/scriptGenie/Naked_And_Afraid_Map
     ref: refs/heads/release
